@@ -10,7 +10,7 @@ namespace TestZaGit
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Pozdravljen svet!");
+            Console.WriteLine("Pozdravljen svet!!");
             Console.ReadLine();
         }
     }
